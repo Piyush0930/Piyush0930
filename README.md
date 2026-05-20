@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://wallpapercave.com/wp/wp2757874.gif" width="100%"/>
+<img src="https://images.alphacoders.com/118/1188504.gif" width="100%"/>
 
 # ⛏️ ᴘɪʏᴜsʜ sᴍᴘ • ᴄʟᴏᴜᴅ ᴇᴅɪᴛɪᴏɴ
 
