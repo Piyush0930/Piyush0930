@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,linux,python,git,github&theme=dark"/>
-
 </div>
 
 # 🧑‍💻 ABOUT ME
