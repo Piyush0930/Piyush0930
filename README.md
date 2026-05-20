@@ -1,18 +1,14 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0f0f,100:1a1a40&text=Piyush%20Patil&fontColor=00F7FF&fontSize=60&fontAlignY=35&desc=Cloud%20Engineer%20•%20AWS%20•%20Azure%20•%20DevOps&descAlignY=55&animation=fadeIn"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0f0f,100:1a1a40&text=Piyush%20Patil&fontColor=00F7FF&fontSize=65&fontAlignY=38&desc=Cloud%20Engineer%20%E2%80%A2%20AWS%20%E2%80%A2%20Azure%20%E2%80%A2%20DevOps&descAlignY=58&animation=fadeIn" alt="Header"/>
 </div>
 
 ---
 
 <div align="center">
-  
-```bash
-[ AWS ]   [ Azure ]   [ DevOps ]   [ Data Engineering ]
 
+```bash
+[ AWS ] [ Azure ] [ DevOps ] [ Data Engineering ]
 STATUS : ONLINE
-```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AWS+Cloud+Intern+%40+TeleGlobal+International;Cloud+Infrastructure+Engineer;AWS+%7C+Azure+%7C+Linux+%7C+Networking;DevOps+Automation+%26+CI%2FCD;Infrastructure+Monitoring+%26+Cloud+Operations" />
 
