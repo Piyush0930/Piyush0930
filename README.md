@@ -26,37 +26,28 @@
 
 <div align="center">
 
-```console
-Piyush@cloud-terminal:~$ whoami
+```yaml
+name: Piyush Patil
+role: Cloud Engineer
+company: TeleGlobal International
 
-☁️ Cloud Engineer
-🏢 AWS Cloud Intern @ TeleGlobal International
+skills:
+  - AWS
+  - Azure
+  - Linux
+  - Networking
+  - DevOps
+  - Kubernetes
+  - Terraform
+  - CI/CD
+  - Data Engineering
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-⚡ Core Skills
-▸ AWS Cloud
-▸ Microsoft Azure
-▸ Linux Administration
-▸ Networking
-▸ Infrastructure Monitoring
-▸ DevOps Fundamentals
-▸ Kubernetes
-▸ Terraform
-▸ CI/CD Pipelines
-▸ Infrastructure as Code
-▸ Data Engineering
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📍 Focus Area
-Designing scalable cloud infrastructure,
-automating deployments, monitoring systems,
-and building reliable cloud solutions.
+focus:
+  Building scalable cloud infrastructure,
+  automating deployments, and monitoring systems.
 ```
 
 </div>
-
 ---
 
 # ☁️ CLOUD & DEVOPS STACK
