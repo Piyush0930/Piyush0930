@@ -2,38 +2,6 @@
 
 ---
 
-```bash
-> Joining Cloud Server...
-> Loading AWS Modules...
-> Starting DevOps Pipelines...
-> STATUS : ONLINE
-```
-
----
-
-# 🎮 PLAYER PROFILE
-
-```yaml
-Player     : Piyush Patil
-Class      : Cloud Engineer
-Guild      : TeleGlobal International
-
-Skills:
-  - AWS
-  - Azure
-  - DevOps
-  - Linux
-  - Networking
-
-Upgrading:
-  - Kubernetes
-  - Terraform
-  - CI/CD
-  - Data Engineering
-```
-
----
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,linux,python,git,github&theme=dark"/>
