@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0f0f,100:1a1a40&text=Piyush%20Patil&fontColor=00F7FF&fontSize=65&fontAlignY=38&desc=Cloud%20Engineer%20%E2%80%A2%20AWS%20%E2%80%A2%20Azure%20%E2%80%A2%20DevOps&descAlignY=58&animation=fadeIn" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1a3c1a,100:2e7d32&text=Piyush%20Patil&fontColor=00FFAA&fontSize=65&fontAlignY=38&desc=Cloud%20Engineer%20%E2%80%A2%20AWS%20%E2%80%A2%20Azure%20%E2%80%A2%20DevOps&descAlignY=58&animation=fadeIn"/>
 </div>
 
 ---
@@ -9,164 +9,194 @@
 ```bash
 [ AWS ] [ Azure ] [ DevOps ] [ Data Engineering ]
 STATUS : ONLINE
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=AWS+Cloud+Intern+%40+TeleGlobal+International;Cloud+Infrastructure+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Linux+%7C+Networking;CI%2FCD+Automation+%7C+Infrastructure+Monitoring;Building+Scalable+Cloud+Solutions" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AWS+Cloud+Intern+%40+TeleGlobal+International;Cloud+Infrastructure+Engineer;AWS+%7C+Azure+%7C+Linux+%7C+Networking;DevOps+Automation+%26+CI%2FCD;Infrastructure+Monitoring+%26+Cloud+Operations" />
 
-</div>
+🧱 WHOAMI - MINECRAFT EDITION
 
----
+YAMLName      : Piyush Patil
+Role      : Cloud Engineer
+Company   : TeleGlobal International
+Location  : Pune, India
+Server    : Survival Mode - Hard Difficulty
 
-# 🛰 WHOAMI
+Specialized In:
+  - AWS Cloud Realm
+  - Microsoft Azure Kingdom
+  - Linux Administration
+  - Networking & Redstone
+  - DevOps Automation
+  - Infrastructure Monitoring
 
-<div align="center">
+Currently Mining:
+  - Kubernetes
+  - Terraform
+  - Advanced CI/CD
+  - Data Engineering
 
-| 👨‍💻 Name | ☁️ Role |
-|----------|----------|
-| Piyush Patil | Cloud Engineer |
 
-| 🏢 Company | 📍 Domain |
-|------------|------------|
-| TeleGlobal International | Cloud & DevOps |
+🎮 MINECRAFT CLOUD ENGINEER
+<img src="https://github.com/Piyush0930/Piyush0930/blob/main/minecraft-avatar.png" alt="Minecraft Avatar">
+(Upload your Minecraft profile picture as minecraft-avatar.png)
 
-</div>
+⚒️ TECH STACK
 
----
-
-<div align="center">
-
-### ⚡ Skills
-
-`AWS` • `Azure` • `Linux` • `Networking` • `DevOps` • `Kubernetes` • `Terraform` • `CI/CD` • `Data Engineering`
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Focus
-
-Building scalable cloud infrastructure, automating deployments, and monitoring reliable systems.
-
-</div>
----
-
-# ☁️ CLOUD & DEVOPS STACK
-
-<div align="center">
-
+☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,linux,bash,git,github,prometheus,grafana" />
-
-</div>
-
----
-
-# 💻 DEVELOPMENT STACK
-
-<div align="center">
-
+💻 Development
 <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,react,nextjs,mongodb,mysql" />
 
-</div>
 
----
-
-# ☁️ CLOUD OPERATIONS
-
-<table>
-<tr>
-
-<td width="50%">
-
-# ☁️ AWS CLOUD
-
-- EC2 Deployment & Management
-- VPC & Networking Configuration
-- IAM Users, Roles & Policies
-- Security Groups & NACL
-- CloudWatch Monitoring & Alerts
-- S3 Storage Management
-- Route 53 & DNS Configuration
-- AWS Troubleshooting & Support
-- Cost Optimization Basics
-- Auto Scaling & Load Balancing
-
----
-
-# 🔷 AZURE CLOUD
-
-- Azure Virtual Machines
-- Azure Resource Management
-- Azure Networking
-- Azure Storage Services
-- Resource Groups Management
-- Monitoring & Diagnostics
-- Identity & Access Management
-- Virtual Network Configuration
-- Azure Administration Basics
-- Cloud Resource Deployment
-
----
-
-# ⚙️ DEVOPS
-
-- Docker Containerization
-- Jenkins CI/CD Pipelines
-- Kubernetes Fundamentals
-- Terraform Infrastructure as Code
-- Git & GitHub Workflow
-- Linux Server Administration
-- Bash Scripting Basics
-- CI/CD Automation
-- Monitoring with Prometheus & Grafana
-- Infrastructure Automation
-
----
-
-# 📊 DATA ENGINEERING
-
-- Python for Data Processing
-- Pandas & NumPy
-- Data Cleaning & Transformation
-- ETL Workflow Basics
-- SQL & Database Management
-- MongoDB & MySQL
-- Data Visualization
-- Cloud Data Fundamentals
-- Data Pipeline Concepts
-- Analytics & Reporting
+⛏️ CLOUD EXPERTISE
 
 
-# 🌐 CONNECT WITH ME
 
-<div align="center">
 
-<a href="https://www.linkedin.com/in/piyush-patil-867a30250/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
-<a href="mailto:piyushpatil922004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
-<a href="https://instagram.com/piyuushhh_09">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 
-</div>
 
----
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Piyush0930&theme=tokyonight&no-frame=true&row=1&column=6" />
 
-</div>
 
----
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,100:1a1a40"/>
 
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AWS Cloud RealmAzure Cloud KingdomEC2 DeploymentVirtual MachinesIAM Users & PoliciesResource ManagementVPC & NetworkingVirtual NetworksSecurity Groups & NACLNetwork SecurityCloudWatch MonitoringMonitoring & DiagnosticsS3 StorageAzure StorageRoute 53 DNSResource GroupsLoad BalancingCloud Deployments
+
+
+⚙️ DEVOPS & AUTOMATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DevOps ToolsMonitoring & ObservabilityDocker ContainerizationPrometheusJenkins CI/CD PipelinesGrafana DashboardsKubernetes OrchestrationInfrastructure MonitoringTerraform (IaC)Alerting & LoggingGit & GitHub WorkflowPerformance OptimizationLinux Server AdminSystem Health Tracking
+
+
+📊 DATA ENGINEERING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data SkillsPython for Data ProcessingPandas & NumPySQL & Database ManagementETL Workflow BasicsMongoDB & MySQLData Cleaning & TransformationData VisualizationAnalytics & Reporting
+
+
+📈 GITHUB ANALYTICS
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyush0930&#x26;show_icons=true&#x26;theme=tokyonight&#x26;hide_border=true&#x26;bg_color=0D1117">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush0930&#x26;theme=tokyonight&#x26;hide_border=true&#x26;background=0D1117">
+  
+
+
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0930&#x26;layout=compact&#x26;theme=tokyonight&#x26;hide_border=true&#x26;bg_color=0D1117">
+
+
+🌐 CONNECT WITH ME
+
+  
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white">
+  
+  
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white">
+  
+  
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&#x26;logo=instagram&#x26;logoColor=white">
+  
+
+
+🏆 ACHIEVEMENTS & TROPHIES
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Piyush0930&#x26;theme=tokyonight&#x26;no-frame=true&#x26;row=1&#x26;column=6">
+
+
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&#x26;height=120&#x26;section=footer&#x26;color=0:1a3c1a,100:2e7d32">
+
+```
