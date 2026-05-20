@@ -19,36 +19,75 @@
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 👨‍💻 PROFILE
+
 ```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Name         : Piyush Patil
-Role         : Cloud Engineer
-Organization : TeleGlobal International
-Location     : Pune, India
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Core Expertise
-
-☁️ AWS Cloud Infrastructure
-🔷 Microsoft Azure Administration
-🐧 Linux System Administration
-🌐 Networking & Security
-⚙️ DevOps & Automation
-📊 Infrastructure Monitoring
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Currently Exploring
-
-🚀 Kubernetes
-🏗️ Terraform
-🔄 CI/CD Pipelines
-📈 Data Engineering
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Name      : Piyush Patil
+Role      : Cloud Engineer
+Company   : TeleGlobal International
+Location  : Pune, India
 ```
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ CLOUD & DEVOPS
+
+```yaml
+AWS Cloud Infrastructure
+Microsoft Azure
+Linux Administration
+Networking & Security
+DevOps Automation
+Infrastructure Monitoring
+```
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 CURRENTLY LEARNING
+
+```yaml
+Kubernetes
+Terraform
+CI/CD Pipelines
+Infrastructure as Code
+Data Engineering
+Cloud Automation
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ FOCUS AREA
+
+```yaml
+Cloud Infrastructure
+Deployment Automation
+System Monitoring
+Scalable Architectures
+Performance Optimization
+Reliable Cloud Operations
+```
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
