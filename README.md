@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.alphacoders.com/118/1188504.gif" width="100%"/>
+<img src="[https://images.alphacoders.com/118/1188504.gif](https://images6.alphacoders.com/909/909641.gif)" width="100%"/>
 
 # ⛏️ ᴘɪʏᴜsʜ sᴍᴘ • ᴄʟᴏᴜᴅ ᴇᴅɪᴛɪᴏɴ
 
