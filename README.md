@@ -24,24 +24,26 @@
 
 # 🛰 WHOAMI
 
-```yaml
-name: Piyush Patil
-role: Cloud Engineer
-company: TeleGlobal International
+```bash
+╭──────────────────────────────╮
+│  👨‍💻 Piyush Patil             │
+├──────────────────────────────┤
+│  ☁️ Cloud Engineer            │
+│  🏢 TeleGlobal International │
+╰──────────────────────────────╯
 
-specialization:
-  - AWS Cloud
-  - Azure
-  - Linux
-  - Networking
-  - Infrastructure Monitoring
-  - DevOps Automation
+⚡ Skills
+┣ AWS
+┣ Azure
+┣ Linux
+┣ Networking
+┗ DevOps
 
-currently_learning:
-  - Kubernetes
-  - Terraform
-  - CI/CD
-  - Data Engineering
+🚀 Currently Learning
+┣ Kubernetes
+┣ Terraform
+┣ CI/CD
+┗ Data Engineering
 ```
 
 ---
