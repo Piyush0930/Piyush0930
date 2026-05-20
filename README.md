@@ -9,10 +9,10 @@
 <div align="center">
 
 ```bash
-> Initializing Cloud Environment...
-> Loading Infrastructure Modules...
-> Connecting AWS & Azure Services...
-> Monitoring Cloud Resources...
+> AWS Services 
+> Azure Services
+> DevOps 
+> Data Engineering 
 > STATUS: ONLINE
 ```
 
@@ -41,10 +41,6 @@ Piyush@cloud-terminal:~$ whoami
 ▸ Networking
 ▸ Infrastructure Monitoring
 ▸ DevOps Fundamentals
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🚀 Currently Learning
 ▸ Kubernetes
 ▸ Terraform
 ▸ CI/CD Pipelines
@@ -90,7 +86,7 @@ and building reliable cloud solutions.
 
 <td width="50%">
 
-## 🚀 AWS Cloud
+# ☁️ AWS CLOUD
 
 - EC2 Deployment & Management
 - VPC & Networking Configuration
@@ -99,66 +95,55 @@ and building reliable cloud solutions.
 - CloudWatch Monitoring & Alerts
 - S3 Storage Management
 - Route 53 & DNS Configuration
-- Troubleshooting & Support
+- AWS Troubleshooting & Support
+- Cost Optimization Basics
+- Auto Scaling & Load Balancing
 
-</td>
+---
 
-<td width="50%">
-
-## 🔷 Azure & DevOps
+# 🔷 AZURE CLOUD
 
 - Azure Virtual Machines
 - Azure Resource Management
-- Linux Server Administration
+- Azure Networking
+- Azure Storage Services
+- Resource Groups Management
+- Monitoring & Diagnostics
+- Identity & Access Management
+- Virtual Network Configuration
+- Azure Administration Basics
+- Cloud Resource Deployment
+
+---
+
+# ⚙️ DEVOPS
+
 - Docker Containerization
 - Jenkins CI/CD Pipelines
 - Kubernetes Fundamentals
 - Terraform Infrastructure as Code
+- Git & GitHub Workflow
+- Linux Server Administration
+- Bash Scripting Basics
+- CI/CD Automation
 - Monitoring with Prometheus & Grafana
-
-</td>
-
-</tr>
-</table>
+- Infrastructure Automation
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📊 DATA ENGINEERING
 
-<div align="center">
+- Python for Data Processing
+- Pandas & NumPy
+- Data Cleaning & Transformation
+- ETL Workflow Basics
+- SQL & Database Management
+- MongoDB & MySQL
+- Data Visualization
+- Cloud Data Fundamentals
+- Data Pipeline Concepts
+- Analytics & Reporting
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyush0930&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush0930&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0930&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
-
----
-
-# ⚡ CURRENT FOCUS
-
-```bash
-[✓] AWS Infrastructure
-[✓] Azure Administration
-[✓] Linux & Networking
-[✓] Cloud Monitoring
-[✓] DevOps Fundamentals
-[✓] Containerization
-
-[~] Kubernetes
-[~] Terraform
-[~] CI/CD Automation
-[~] Cloud Security
-[~] Data Engineering
-```
-
----
 
 # 🌐 CONNECT WITH ME
 
