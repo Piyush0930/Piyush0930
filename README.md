@@ -1,202 +1,81 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1a3c1a,100:2e7d32&text=Piyush%20Patil&fontColor=00FFAA&fontSize=65&fontAlignY=38&desc=Cloud%20Engineer%20%E2%80%A2%20AWS%20%E2%80%A2%20Azure%20%E2%80%A2%20DevOps&descAlignY=58&animation=fadeIn"/>
+
+<!-- MINECRAFT STYLE CUSTOM HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:110011,100:2b003a&text=Piyush%20Patil&fontColor=55FF55&fontSize=60&fontAlignY=35&desc=⛏️%20Crafting%20Cloud%20Infrastructure%20•%20AWS%20•%20DevOps&descAlignY=55&animation=fadeIn"/>
+
 </div>
 
 ---
 
 <div align="center">
-
+  
 ```bash
-[ AWS ] [ Azure ] [ DevOps ] [ Data Engineering ]
-STATUS : ONLINE
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=AWS+Cloud+Intern+%40+TeleGlobal+International;Cloud+Infrastructure+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Linux+%7C+Networking;CI%2FCD+Automation+%7C+Infrastructure+Monitoring;Building+Scalable+Cloud+Solutions" />
+[ 💎 Diamond Tier Cloud Engineer ]
+> Current Biome: TeleGlobal International
+> Game Mode: Survival (Hardcore DevOps Automation)
+> STATUS: RESPONDING TO TICKETS... ONLINE
+📜 WORLD SEED // WHOAMI
+🧑‍🌾 Player	🛡️ Class
+Piyush Patil	Cloud Engineer
+🏰 Faction / Guild	🗺️ Coordinates
+TeleGlobal International	Cloud & DevOps Domain
+⚔️ HOTBAR // EQUIPMENT (TECH STACK)
+🧱 Building Blocks (Cloud & Infrastructure)
+🛠️ Redstone Tools (DevOps & Automation)
+🧪 Brewing & Alchemy (Development Stack)
+📦 INVENTORY SKILLTREE
+☁️ AWS Cloud Crafting
+🚀 EC2 & Auto Scaling: Spawning & managing elastic compute nodes.
 
+🌐 VPC Networking: Crafting secure subnets and perimeter walls (NACLs).
 
-🧱 WHOAMI - MINECRAFT EDITION
+🔑 IAM Security: Setting up world permissions, roles, and security groups.
 
-YAMLName      : Piyush Patil
-Role      : Cloud Engineer
-Company   : TeleGlobal International
-Location  : Pune, India
-Server    : Survival Mode - Hard Difficulty
+👁️ CloudWatch: Setting up player alerts and performance metric monitoring.
 
-Specialized In:
-  - AWS Cloud Realm
-  - Microsoft Azure Kingdom
-  - Linux Administration
-  - Networking & Redstone
-  - DevOps Automation
-  - Infrastructure Monitoring
+🪣 S3 Storage: Infinite chests for secure, scalable object storage.
 
-Currently Mining:
-  - Kubernetes
-  - Terraform
-  - Advanced CI/CD
-  - Data Engineering
+🔷 Azure Realm Administration
+💻 Azure VMs: Provisioning virtual machine instances.
 
+📦 Resource Management: Organizing structural groups cleanly.
 
-🎮 MINECRAFT CLOUD ENGINEER
-<img src="https://github.com/Piyush0930/Piyush0930/blob/main/minecraft-avatar.png" alt="Minecraft Avatar">
-(Upload your Minecraft profile picture as minecraft-avatar.png)
+🔒 Identity & Access: Controlling active tenant access security.
 
-⚒️ TECH STACK
+🗺️ Virtual Networks: Constructing secure cross-realm connectivity.
 
-☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,linux,bash,git,github,prometheus,grafana" />
-💻 Development
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,react,nextjs,mongodb,mysql" />
+📊 Diagnostics: Tracking performance data across active systems.
 
+⚙️ Redstone Engineers (DevOps)
+📦 Docker: Packing services neatly into standardized container blocks.
 
-⛏️ CLOUD EXPERTISE
+🔄 Jenkins & GitHub Actions: Automating infinite industrial build cycles.
 
+☸️ Kubernetes: Orchestrating massive container villages seamlessly.
 
+📝 Terraform IaC: Spawning complete dynamic worlds using code blueprints.
 
+📈 Prometheus & Grafana: Placing structural telemetry monitoring grids.
 
+📊 Data Miner (Data Engineering)
+🐍 Python Processing: Writing custom scripts to harvest raw material data.
 
+🧮 Pandas & NumPy: Sorting, structuring, and filtering heavy chunks.
 
+🛢️ SQL & MongoDB: Managing structured and unstructured data vaults.
 
+⏳ ETL Workflows: Refining raw streams into optimized reporting structures.
 
+📈 Analytics: Visualizing system performance logs beautifully.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-AWS Cloud RealmAzure Cloud KingdomEC2 DeploymentVirtual MachinesIAM Users & PoliciesResource ManagementVPC & NetworkingVirtual NetworksSecurity Groups & NACLNetwork SecurityCloudWatch MonitoringMonitoring & DiagnosticsS3 StorageAzure StorageRoute 53 DNSResource GroupsLoad BalancingCloud Deployments
-
-
-⚙️ DEVOPS & AUTOMATION
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-DevOps ToolsMonitoring & ObservabilityDocker ContainerizationPrometheusJenkins CI/CD PipelinesGrafana DashboardsKubernetes OrchestrationInfrastructure MonitoringTerraform (IaC)Alerting & LoggingGit & GitHub WorkflowPerformance OptimizationLinux Server AdminSystem Health Tracking
-
-
-📊 DATA ENGINEERING
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Data SkillsPython for Data ProcessingPandas & NumPySQL & Database ManagementETL Workflow BasicsMongoDB & MySQLData Cleaning & TransformationData VisualizationAnalytics & Reporting
-
-
-📈 GITHUB ANALYTICS
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyush0930&#x26;show_icons=true&#x26;theme=tokyonight&#x26;hide_border=true&#x26;bg_color=0D1117">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush0930&#x26;theme=tokyonight&#x26;hide_border=true&#x26;background=0D1117">
-  
-
-
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0930&#x26;layout=compact&#x26;theme=tokyonight&#x26;hide_border=true&#x26;bg_color=0D1117">
-
-
-🌐 CONNECT WITH ME
-
-  
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white">
-  
-  
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white">
-  
-  
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&#x26;logo=instagram&#x26;logoColor=white">
-  
-
-
-🏆 ACHIEVEMENTS & TROPHIES
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Piyush0930&#x26;theme=tokyonight&#x26;no-frame=true&#x26;row=1&#x26;column=6">
-
-
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&#x26;height=120&#x26;section=footer&#x26;color=0:1a3c1a,100:2e7d32">
-
-```
+🏆 ACHIEVEMENTS UNLOCKED
+🌐 MULTIPLAYER LOBBY // CONNECT
+🎮 GAME LOOP
+Python
+# The Infinite Dev Cycle
+while True:
+    mine_data()
+    craft_code()
+    build_infrastructure()
+    automate_redstone()  # CI/CD
+    defend_perimeter()   # Cloud Security
