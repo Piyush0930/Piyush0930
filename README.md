@@ -27,61 +27,55 @@
 ### 👨‍💻 PROFILE
 
 ```yaml
-Name      : Piyush Patil
-Role      : Cloud Engineer
-Company   : TeleGlobal International
-Location  : Pune, India
+Name     : Piyush Patil
+Role     : Cloud Engineer
+Company  : TeleGlobal International
+Location : Pune, India
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-### ☁️ CLOUD & DEVOPS
+### ☁️ SKILLS
 
 ```yaml
-AWS Cloud Infrastructure
-Microsoft Azure
-Linux Administration
-Networking & Security
-DevOps Automation
-Infrastructure Monitoring
+AWS
+Azure
+Linux
+Networking
+DevOps
+Monitoring
 ```
 
 </td>
 
 </tr>
-</table>
 
-<table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🚀 CURRENTLY LEARNING
+### 🚀 LEARNING
 
 ```yaml
 Kubernetes
 Terraform
-CI/CD Pipelines
-Infrastructure as Code
+CI/CD
 Data Engineering
-Cloud Automation
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚡ FOCUS AREA
+### ⚡ FOCUS
 
 ```yaml
 Cloud Infrastructure
-Deployment Automation
-System Monitoring
-Scalable Architectures
-Performance Optimization
-Reliable Cloud Operations
+Automation
+Monitoring
+Scalable Systems
 ```
 
 </td>
