@@ -1,81 +1,170 @@
 <div align="center">
 
-<!-- MINECRAFT STYLE CUSTOM HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:110011,100:2b003a&text=Piyush%20Patil&fontColor=55FF55&fontSize=60&fontAlignY=35&desc=⛏️%20Crafting%20Cloud%20Infrastructure%20•%20AWS%20•%20DevOps&descAlignY=55&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0f0f,100:1f4068&text=Piyush%20Patil&fontColor=00F5FF&fontSize=65&fontAlignY=38&desc=Cloud%20Engineer%20•%20AWS%20•%20Azure%20•%20DevOps&descAlignY=58&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=AWS+Cloud+Intern+%40+TeleGlobal+International;Cloud+Infrastructure+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Linux+%7C+Networking;CI%2FCD+Automation+%7C+Infrastructure+Monitoring;Building+Scalable+Cloud+Solutions" />
+
+<br>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=azuredevops&logoColor=0078D7"/>
+<img src="https://img.shields.io/badge/Data%20Engineering-1E293B?style=for-the-badge&logo=apachespark&logoColor=E25A1C"/>
+
+</div>
+
+---
+
+# 🧑‍💻 ABOUT ME
+
+<div align="center">
+
+```yaml
+Name        : Piyush Patil
+Role        : Cloud Engineer
+Company     : TeleGlobal International
+Location    : Pune, India
+
+Specialized In:
+  - AWS Cloud
+  - Microsoft Azure
+  - Linux Administration
+  - Networking
+  - DevOps Automation
+  - Infrastructure Monitoring
+
+Currently Learning:
+  - Kubernetes
+  - Terraform
+  - CI/CD Pipelines
+  - Data Engineering
+```
+
+</div>
+
+---
+
+# ⚡ TECH STACK
+
+<div align="center">
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,linux,bash,git,github,prometheus,grafana" />
+
+---
+
+### 💻 Development
+
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,react,nextjs,mongodb,mysql" />
+
+</div>
+
+---
+
+# ☁️ CLOUD EXPERTISE
+
+<div align="center">
+
+| AWS Cloud | Azure Cloud |
+|------------|-------------|
+| EC2 Deployment & Management | Azure Virtual Machines |
+| IAM Users, Roles & Policies | Azure Resource Management |
+| VPC & Networking | Azure Networking |
+| Security Groups & NACL | Virtual Network Configuration |
+| CloudWatch Monitoring | Monitoring & Diagnostics |
+| S3 Storage Services | Azure Storage Services |
+| Route 53 & DNS | Resource Group Management |
+| Load Balancing & Auto Scaling | Cloud Resource Deployment |
+
+</div>
+
+---
+
+# ⚙️ DEVOPS & AUTOMATION
+
+<div align="center">
+
+| DevOps | Monitoring |
+|---------|------------|
+| Docker Containerization | Prometheus |
+| Jenkins CI/CD Pipelines | Grafana Dashboards |
+| Kubernetes Fundamentals | Infrastructure Monitoring |
+| Terraform Infrastructure as Code | System Health Tracking |
+| Git & GitHub Workflow | Alerting & Logging |
+| Linux Server Administration | Performance Optimization |
+
+</div>
+
+---
+
+# 📊 DATA ENGINEERING
+
+<div align="center">
+
+| Data Skills |
+|--------------|
+| Python for Data Processing |
+| Pandas & NumPy |
+| SQL & Database Management |
+| ETL Workflow Basics |
+| MongoDB & MySQL |
+| Data Cleaning & Transformation |
+| Data Visualization |
+| Analytics & Reporting |
+
+</div>
+
+---
+
+# 📈 GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyush0930&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush0930&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+<br><br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0930&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/piyush-patil-867a30250/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:piyushpatil922004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/piyuushhh_09">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Piyush0930&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
 <div align="center">
-  
-```bash
-[ 💎 Diamond Tier Cloud Engineer ]
-> Current Biome: TeleGlobal International
-> Game Mode: Survival (Hardcore DevOps Automation)
-> STATUS: RESPONDING TO TICKETS... ONLINE
-📜 WORLD SEED // WHOAMI
-🧑‍🌾 Player	🛡️ Class
-Piyush Patil	Cloud Engineer
-🏰 Faction / Guild	🗺️ Coordinates
-TeleGlobal International	Cloud & DevOps Domain
-⚔️ HOTBAR // EQUIPMENT (TECH STACK)
-🧱 Building Blocks (Cloud & Infrastructure)
-🛠️ Redstone Tools (DevOps & Automation)
-🧪 Brewing & Alchemy (Development Stack)
-📦 INVENTORY SKILLTREE
-☁️ AWS Cloud Crafting
-🚀 EC2 & Auto Scaling: Spawning & managing elastic compute nodes.
 
-🌐 VPC Networking: Crafting secure subnets and perimeter walls (NACLs).
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,100:1f4068"/>
 
-🔑 IAM Security: Setting up world permissions, roles, and security groups.
-
-👁️ CloudWatch: Setting up player alerts and performance metric monitoring.
-
-🪣 S3 Storage: Infinite chests for secure, scalable object storage.
-
-🔷 Azure Realm Administration
-💻 Azure VMs: Provisioning virtual machine instances.
-
-📦 Resource Management: Organizing structural groups cleanly.
-
-🔒 Identity & Access: Controlling active tenant access security.
-
-🗺️ Virtual Networks: Constructing secure cross-realm connectivity.
-
-📊 Diagnostics: Tracking performance data across active systems.
-
-⚙️ Redstone Engineers (DevOps)
-📦 Docker: Packing services neatly into standardized container blocks.
-
-🔄 Jenkins & GitHub Actions: Automating infinite industrial build cycles.
-
-☸️ Kubernetes: Orchestrating massive container villages seamlessly.
-
-📝 Terraform IaC: Spawning complete dynamic worlds using code blueprints.
-
-📈 Prometheus & Grafana: Placing structural telemetry monitoring grids.
-
-📊 Data Miner (Data Engineering)
-🐍 Python Processing: Writing custom scripts to harvest raw material data.
-
-🧮 Pandas & NumPy: Sorting, structuring, and filtering heavy chunks.
-
-🛢️ SQL & MongoDB: Managing structured and unstructured data vaults.
-
-⏳ ETL Workflows: Refining raw streams into optimized reporting structures.
-
-📈 Analytics: Visualizing system performance logs beautifully.
-
-🏆 ACHIEVEMENTS UNLOCKED
-🌐 MULTIPLAYER LOBBY // CONNECT
-🎮 GAME LOOP
-Python
-# The Infinite Dev Cycle
-while True:
-    mine_data()
-    craft_code()
-    build_infrastructure()
-    automate_redstone()  # CI/CD
-    defend_perimeter()   # Cloud Security
+</div>
