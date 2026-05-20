@@ -1,40 +1,42 @@
 <div align="center">
 
-# ⛏️ PIYUSH SMP v2.0
+<img src="https://i.imgur.com/iXuL1HG.gif" width="100%"/>
 
-```bash
-> Loading World...
-> Joining Server...
-> Syncing Cloud Chunks...
-> STATUS : ONLINE
-```
+# ⛏️ ᴘɪʏᴜsʜ sᴍᴘ • ᴄʟᴏᴜᴅ ᴇᴅɪᴛɪᴏɴ
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Minecraftia&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=☁️+Cloud+Engineer;⚡+AWS+%7C+Azure+%7C+DevOps;🚀+Building+Scalable+Infrastructure;🔄+Automating+CI%2FCD+Pipelines;📊+Learning+Data+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=55FF55&center=true&vCenter=true&width=1000&lines=☁️+AWS+%7C+Azure+%7C+DevOps;⚡+Cloud+Infrastructure+Engineer;🚀+Building+Scalable+Systems;📊+Learning+Data+Engineering" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Version-v2.0-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Edition-CloudCraft-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Minecraft-Cloud%20Edition-55FF55?style=for-the-badge&logo=minecraft&logoColor=black"/>
+<img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Mode-Survival-darkgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Online-success?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌍 PLAYER INFO
+```bash
+> Joining Cloud Server...
+> Loading AWS Modules...
+> Starting DevOps Pipelines...
+> STATUS : ONLINE
+```
+
+---
+
+# 🎮 PLAYER PROFILE
 
 ```yaml
-Player Name : PiyushPatil
-Class       : Cloud Engineer
-Guild       : TeleGlobal International
-Realm       : Pune, India
+Player     : Piyush Patil
+Class      : Cloud Engineer
+Guild      : TeleGlobal International
 
 Skills:
   - AWS
   - Azure
-  - Linux
   - DevOps
+  - Linux
   - Networking
 
 Upgrading:
@@ -46,71 +48,9 @@ Upgrading:
 
 ---
 
-# 🧰 INVENTORY
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,linux,bash,python,git,github,mongodb,mysql&theme=dark"/>
-
-</div>
-
----
-
-# ⚔️ ACTIVE QUESTS
-
-```diff
-+ Building Cloud Infrastructure
-+ Automating DevOps Pipelines
-+ Deploying Scalable Applications
-+ Monitoring Production Systems
-+ Learning Advanced Cloud Technologies
-```
-
----
-
-# 📊 SERVER STATS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyush0930&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush0930&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# 🏆 ACHIEVEMENTS UNLOCKED
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Piyush0930&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🌐 MULTIPLAYER LINKS
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20Server-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-patil-867a30250/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-Send%20Message-red?style=for-the-badge&logo=gmail)](mailto:piyushpatil922004@gmail.com)
-
-[![Instagram](https://img.shields.io/badge/Instagram-View%20Profile-purple?style=for-the-badge&logo=instagram)](https://instagram.com/piyuushhh_09)
-
-</div>
-
----
-
-<div align="center">
-
-```bash
-Saving World...
-Disconnecting Session...
-See you again, Player.
-```
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,linux,python,git,github&theme=dark"/>
 
 </div>
 
