@@ -1,12 +1,4 @@
-<div align="center">
-
-<img src="[https://images.alphacoders.com/118/1188504.gif](https://images6.alphacoders.com/909/909641.gif)" width="100%"/>
-
-# ⛏️ ᴘɪʏᴜsʜ sᴍᴘ • ᴄʟᴏᴜᴅ ᴇᴅɪᴛɪᴏɴ
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=55FF55&center=true&vCenter=true&width=1000&lines=☁️+AWS+%7C+Azure+%7C+DevOps;⚡+Cloud+Infrastructure+Engineer;🚀+Building+Scalable+Systems;📊+Learning+Data+Engineering" />
-
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0f0f,100:1f4068&text=Piyush%20Patil&fontColor=00F5FF&fontSize=65&fontAlignY=38&desc=Cloud%20Engineer%20•%20AWS%20•%20Azure%20•%20DevOps&descAlignY=58&animation=fadeIn"/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=AWS+Cloud+Intern+%40+TeleGlobal+International;Cloud+Infrastructure+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Linux+%7C+Networking;CI%2FCD+Automation+%7C+Infrastructure+Monitoring;Building+Scalable+Cloud+Solutions" /> <br> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=azuredevops&logoColor=0078D7"/> <img src="https://img.shields.io/badge/Data%20Engineering-1E293B?style=for-the-badge&logo=apachespark&logoColor=E25A1C"/> </div>
 
 ---
 
