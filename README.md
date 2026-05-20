@@ -17,13 +17,6 @@
 
 # 🧑‍💻 ABOUT ME
 
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ### 👨‍💻 PROFILE
 
 ```yaml
@@ -32,10 +25,6 @@ Role     : Cloud Engineer
 Company  : TeleGlobal International
 Location : Pune, India
 ```
-
-</td>
-
-<td width="50%" valign="top">
 
 ### ☁️ SKILLS
 
@@ -48,14 +37,6 @@ DevOps
 Monitoring
 ```
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
 ### 🚀 LEARNING
 
 ```yaml
@@ -65,10 +46,6 @@ CI/CD
 Data Engineering
 ```
 
-</td>
-
-<td width="50%" valign="top">
-
 ### ⚡ FOCUS
 
 ```yaml
@@ -77,13 +54,6 @@ Automation
 Monitoring
 Scalable Systems
 ```
-
-</td>
-
-</tr>
-</table>
-
-</div>
 
 ---
 # ⚡ TECH STACK
