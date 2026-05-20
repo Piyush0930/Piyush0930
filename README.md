@@ -7,13 +7,11 @@
 ---
 
 <div align="center">
-
+  
 ```bash
-> AWS Services 
-> Azure Services
-> DevOps 
-> Data Engineering 
-> STATUS: ONLINE
+[ AWS ]   [ Azure ]   [ DevOps ]   [ Data Engineering ]
+
+STATUS : ONLINE
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AWS+Cloud+Intern+%40+TeleGlobal+International;Cloud+Infrastructure+Engineer;AWS+%7C+Azure+%7C+Linux+%7C+Networking;DevOps+Automation+%26+CI%2FCD;Infrastructure+Monitoring+%26+Cloud+Operations" />
