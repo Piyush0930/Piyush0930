@@ -1,43 +1,70 @@
 <h1 align="center">Hi 👋, I'm Piyush Patil</h1>
-<h3 align="center">Cloud Engineer | AWS & Azure | DevOps Enthusiast | Automation & Infrastructure</h3>
+
+<h3 align="center">
+☁️ Cloud Engineer | AWS & Azure | DevOps Enthusiast | Linux & Networking
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Piyush0930&label=Profile%20views&color=0e75b6&style=flat" alt="Piyush0930" />
+  <a href="https://www.linkedin.com/in/piyush-patil-867a30250/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:piyushpatil922004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/piyuushhh_09">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- ☁️ Cloud Engineer with hands-on experience in AWS & Azure
-- 🔧 Skilled in EC2, IAM, VPC, Security Groups, Monitoring & Troubleshooting
-- ⚙️ Learning DevOps tools and automation workflows
-- 📦 Working with Docker, Jenkins, Kubernetes & Terraform
-- 📊 Exploring Data Engineering & Cloud Data Pipelines
-- 🛠️ Passionate about scalable cloud infrastructure and CI/CD
+```yaml
+Name: Piyush Patil
+Role: AWS Cloud Intern @ TeleGlobal International
+Location: Pune, India
+
+Focus Areas:
+  - AWS Cloud Infrastructure
+  - Azure Administration
+  - DevOps & Automation
+  - Linux & Networking
+  - Monitoring & Troubleshooting
+  - Infrastructure as Code
+  - Data Engineering Fundamentals
+```
 
 ---
 
-# 🧰 Tech Stack
+# ☁️ Cloud & DevOps Stack
 
-## ☁️ Cloud Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,linux,bash,git,github" />
+
 </p>
 
-## ⚙️ DevOps & Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,git,github,linux" />
+---
+
+# 💻 Development Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,react,nextjs,mongodb,mysql" />
+
 </p>
 
-## 💻 Programming & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,react,nextjs,mongodb,mysql" />
-</p>
+---
 
-## 📊 Data & Analytics
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+# 📊 Data & Analytics
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
 </p>
 
 - Pandas
@@ -47,71 +74,99 @@
 
 ---
 
-# 📌 Featured Projects
+# 🔥 Featured Projects
 
 ## 🏠 Smart Property Rental Platform
-Full-stack MERN + DevOps project with:
-- Authentication & Role Management
-- Property Listings & Booking
+> MERN + DevOps + Cloud Infrastructure
+
+### Features
+- Authentication & Authorization
+- Property Listing & Booking
 - Dockerized Deployment
-- Kubernetes Orchestration
-- Jenkins CI/CD Pipeline
-- Monitoring using Prometheus & Grafana
+- Jenkins CI/CD
+- Kubernetes Deployment
+- Monitoring with Prometheus & Grafana
 
 ---
 
-## 🎬 Hybrid Movie Booking System
-Movie streaming + mini theater booking platform using:
+## 🎬 Hybrid Movie Booking Platform
+> Online streaming + offline mini-theater booking
+
+### Tech Used
 - Next.js
 - MongoDB
-- Authentication
+- Node.js
+- Authentication System
 - Cloud Deployment
+
+---
+
+## ⚙️ DevOps Infrastructure Automation
+> Terraform + Docker + Jenkins + Kubernetes
+
+### Includes
+- CI/CD Pipeline
+- Containerized Applications
+- Infrastructure as Code
+- Monitoring & Logging
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyush0930&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Piyush0930&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush0930&theme=tokyonight&hide_border=true" width="49%" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush0930&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0930&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0930&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/piyush-patil-867a30250/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<p align="center">
+
+<a href="https://www.linkedin.com/in/piyush-patil-867a30250/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:piyushpatil922004@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://instagram.com/piyuushhh_09" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+<a href="https://instagram.com/piyuushhh_09">
+  <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
+
 </p>
 
 ---
 
-# 🔥 Current Focus
+# ⚡ Current Learning
 
-- DevOps Engineering
-- Kubernetes & Terraform
-- AWS Infrastructure Automation
-- CI/CD Pipeline Design
-- Cloud Monitoring & Logging
-- Data Engineering Fundamentals
+- Kubernetes
+- Terraform
+- CI/CD Automation
+- AWS Monitoring
+- Infrastructure as Code
+- Data Engineering Workflows
 
 ---
 
-⭐ Always learning and building practical cloud & DevOps projects.
+# 🧠 Quote
+
+> “Build projects that solve problems — not just repositories that store code.”
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Piyush0930&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
