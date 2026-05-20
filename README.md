@@ -104,56 +104,110 @@ Scalable Systems
 
 ---
 
-# ☁️ CLOUD EXPERTISE
+# ☁️ CLOUD • ⚙️ DEVOPS • 📊 DATA ENGINEERING
 
 <div align="center">
 
-| AWS Cloud | Azure Cloud |
-|------------|-------------|
-| EC2 Deployment & Management | Azure Virtual Machines |
-| IAM Users, Roles & Policies | Azure Resource Management |
-| VPC & Networking | Azure Networking |
-| Security Groups & NACL | Virtual Network Configuration |
-| CloudWatch Monitoring | Monitoring & Diagnostics |
-| S3 Storage Services | Azure Storage Services |
-| Route 53 & DNS | Resource Group Management |
-| Load Balancing & Auto Scaling | Cloud Resource Deployment |
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### ☁️ AWS CLOUD
+
+```yaml
+EC2 Management
+IAM & Policies
+VPC Networking
+Security Groups
+CloudWatch
+S3 Storage
+Route 53
+Load Balancing
+```
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔷 AZURE CLOUD
+
+```yaml
+Azure VMs
+Azure Networking
+Resource Management
+Virtual Networks
+Monitoring
+Storage Services
+Diagnostics
+Cloud Deployment
+```
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚙️ DEVOPS
+
+```yaml
+Docker
+Kubernetes
+Terraform
+Jenkins CI/CD
+Git & GitHub
+Linux
+Prometheus
+Grafana
+```
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# ⚙️ DEVOPS & AUTOMATION
-
 <div align="center">
 
-| DevOps | Monitoring |
-|---------|------------|
-| Docker Containerization | Prometheus |
-| Jenkins CI/CD Pipelines | Grafana Dashboards |
-| Kubernetes Fundamentals | Infrastructure Monitoring |
-| Terraform Infrastructure as Code | System Health Tracking |
-| Git & GitHub Workflow | Alerting & Logging |
-| Linux Server Administration | Performance Optimization |
+<table>
+<tr>
 
-</div>
+<td width="50%" valign="top">
 
----
+### 📊 DATA ENGINEERING
 
-# 📊 DATA ENGINEERING
+```yaml
+Python
+Pandas & NumPy
+SQL
+MongoDB & MySQL
+ETL Basics
+Data Cleaning
+Visualization
+Analytics
+```
 
-<div align="center">
+</td>
 
-| Data Skills |
-|--------------|
-| Python for Data Processing |
-| Pandas & NumPy |
-| SQL & Database Management |
-| ETL Workflow Basics |
-| MongoDB & MySQL |
-| Data Cleaning & Transformation |
-| Data Visualization |
-| Analytics & Reporting |
+<td width="50%" valign="top">
+
+### 🚀 FOCUS AREA
+
+```yaml
+Cloud Infrastructure
+Automation
+Monitoring
+Scalable Systems
+CI/CD Pipelines
+Cloud Operations
+```
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
