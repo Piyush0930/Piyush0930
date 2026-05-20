@@ -26,26 +26,33 @@
 
 <div align="center">
 
-```yaml
-name: Piyush Patil
-role: Cloud Engineer
-company: TeleGlobal International
+| 👨‍💻 Name | ☁️ Role |
+|----------|----------|
+| Piyush Patil | Cloud Engineer |
 
-skills:
-  - AWS
-  - Azure
-  - Linux
-  - Networking
-  - DevOps
-  - Kubernetes
-  - Terraform
-  - CI/CD
-  - Data Engineering
+| 🏢 Company | 📍 Domain |
+|------------|------------|
+| TeleGlobal International | Cloud & DevOps |
 
-focus:
-  Building scalable cloud infrastructure,
-  automating deployments, and monitoring systems.
-```
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Skills
+
+`AWS` • `Azure` • `Linux` • `Networking` • `DevOps` • `Kubernetes` • `Terraform` • `CI/CD` • `Data Engineering`
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Focus
+
+Building scalable cloud infrastructure, automating deployments, and monitoring reliable systems.
 
 </div>
 ---
