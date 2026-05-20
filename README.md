@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://i.imgur.com/iXuL1HG.gif" width="100%"/>
+<img src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif" width="100%"/>
 
 # ⛏️ ᴘɪʏᴜsʜ sᴍᴘ • ᴄʟᴏᴜᴅ ᴇᴅɪᴛɪᴏɴ
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=55FF55&center=true&vCenter=true&width=1000&lines=☁️+AWS+%7C+Azure+%7C+DevOps;⚡+Cloud+Infrastructure+Engineer;🚀+Building+Scalable+Systems;📊+Learning+Data+Engineering" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Minecraft-Cloud%20Edition-55FF55?style=for-the-badge&logo=minecraft&logoColor=black"/>
-<img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mode-Survival-darkgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-ONLINE-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mode-SURVIVAL-darkgreen?style=for-the-badge"/>
 
 </div>
 
