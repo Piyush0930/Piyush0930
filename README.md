@@ -1,150 +1,204 @@
 <div align="center">
 
-# ⚡ PIYUSH PATIL
-
-```bash
-> AWS Cloud Intern @ TeleGlobal International
-> Cloud Engineer | DevOps Enthusiast
-> Linux • Networking • Automation • Infrastructure
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Designing+Cloud+Infrastructure...;Automating+DevOps+Pipelines...;Deploying+Scalable+Systems...;Learning+Something+New+Everyday..." />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0f0f,100:1a1a40&text=Piyush%20Patil&fontColor=00F7FF&fontSize=60&fontAlignY=35&desc=Cloud%20Engineer%20•%20AWS%20•%20Azure%20•%20DevOps&descAlignY=55&animation=fadeIn"/>
 
 </div>
 
 ---
 
-# 🛰 SYSTEM STATUS
+<div align="center">
+
+```bash
+> Initializing Cloud Terminal...
+> Loading Infrastructure Modules...
+> Connecting AWS Services...
+> Monitoring Active Systems...
+> STATUS: ONLINE
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AWS+Cloud+Intern+%40+TeleGlobal+International;Designing+Cloud+Infrastructure;Automating+CI%2FCD+Pipelines;Deploying+Scalable+Systems;Learning+DevOps+%26+Data+Engineering" />
+
+</div>
+
+---
+
+# 🛰 WHOAMI
 
 ```yaml
-Cloud Platforms:
-  - AWS
+name: Piyush Patil
+role: Cloud Engineer
+company: TeleGlobal International
+
+specialization:
+  - AWS Cloud
   - Azure
-
-DevOps Stack:
-  - Docker
-  - Kubernetes
-  - Jenkins
-  - Terraform
-
-Monitoring:
-  - Prometheus
-  - Grafana
-
-Programming:
-  - Python
-  - JavaScript
-  - Node.js
-  - React
-  - Next.js
-
-Operating Systems:
   - Linux
+  - Networking
+  - Infrastructure Monitoring
+  - DevOps Automation
+
+currently_learning:
+  - Kubernetes
+  - Terraform
+  - CI/CD
+  - Data Engineering
 ```
 
 ---
 
-# ☁️ ACTIVE MISSIONS
+# ⚡ TECH STACK
 
-### 🚀 Smart Property Rental Platform
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,linux,bash,python,javascript,nodejs,react,nextjs,mongodb,mysql,git,github" />
+
+</div>
+
+---
+
+# ☁️ CLOUD OPERATIONS
+
+<table>
+<tr>
+<td width="50%">
+
+## 🚀 Infrastructure
+- EC2 Deployment
+- IAM Management
+- VPC Networking
+- Security Groups
+- Monitoring & Alerts
+- Linux Administration
+
+</td>
+
+<td width="50%">
+
+## ⚙️ DevOps
+- Docker
+- Kubernetes
+- Jenkins CI/CD
+- Terraform IaC
+- GitHub Actions
+- Prometheus & Grafana
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📂 ACTIVE PROJECTS
+
+## 🏠 Smart Property Rental Platform
+
 ```diff
-+ MERN Architecture
-+ Jenkins CI/CD
-+ Kubernetes Deployment
-+ Monitoring Stack
-+ AWS Infrastructure
++ MERN Stack Architecture
++ AWS Deployment
++ Dockerized Services
++ Jenkins CI/CD Pipeline
++ Kubernetes Orchestration
++ Monitoring Dashboard
 ```
 
 ---
 
-### 🎬 Hybrid Movie Booking System
+## 🎬 Hybrid Movie Booking System
+
 ```diff
-+ Next.js Application
++ Next.js Frontend
 + MongoDB Backend
 + Authentication System
-+ Cloud Deployment
++ Cloud Infrastructure
 ```
 
 ---
 
-# ⚙️ TECH ARSENAL
+## ⚡ DevOps Automation Lab
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,linux,bash,python,javascript,nodejs,react,nextjs,mongodb,mysql,git,github" />
-
-</p>
-
----
-
-# 📡 LIVE ENGINEERING METRICS
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyush0930&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush0930&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0930&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
+```diff
++ Infrastructure as Code
++ Terraform Modules
++ Docker Containers
++ CI/CD Automation
++ Monitoring Stack
+```
 
 ---
 
-# 🌐 NETWORK CONNECTIONS
+# 📊 LIVE METRICS
 
-<p align="center">
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyush0930&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush0930&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0930&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+# 🌐 NETWORK LINKS
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/piyush-patil-867a30250/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:piyushpatil922004@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/piyuushhh_09">
-  <img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 🧠 CURRENT OBJECTIVES
+# 🧠 SYSTEM OBJECTIVES
 
 ```bash
-[✓] AWS Infrastructure
-[✓] Azure Administration
-[✓] Linux & Networking
-[✓] CI/CD Pipelines
-[✓] Docker & Kubernetes
-[ ] Advanced Terraform
-[ ] Production-grade Monitoring
-[ ] Cloud Security Specialization
+[✓] Cloud Infrastructure
+[✓] Linux Administration
+[✓] Networking
+[✓] CI/CD Automation
+[✓] Containerization
+[✓] Infrastructure Monitoring
+
+[~] Advanced Kubernetes
+[~] Terraform at Scale
+[~] Production-grade DevOps
+[~] Cloud Security Engineering
 ```
 
 ---
 
 # ⚡ TERMINAL
 
-```bash
-while(alive) {
-    learn();
-    build();
-    automate();
-    deploy();
-}
+```python
+while True:
+
+    learn()
+    build()
+    automate()
+    deploy()
+    monitor()
+
 ```
 
 ---
 
 <div align="center">
 
-### ☁️ “Infrastructure is invisible until it fails.”
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,100:1a1a40"/>
 
 </div>
