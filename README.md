@@ -20,30 +20,39 @@
 <div align="center">
 
 ```yaml
-Name        : Piyush Patil
-Role        : Cloud Engineer
-Company     : TeleGlobal International
-Location    : Pune, India
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Specialized In:
-  - AWS Cloud
-  - Microsoft Azure
-  - Linux Administration
-  - Networking
-  - DevOps Automation
-  - Infrastructure Monitoring
+Name         : Piyush Patil
+Role         : Cloud Engineer
+Organization : TeleGlobal International
+Location     : Pune, India
 
-Currently Learning:
-  - Kubernetes
-  - Terraform
-  - CI/CD Pipelines
-  - Data Engineering
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Core Expertise
+
+☁️ AWS Cloud Infrastructure
+🔷 Microsoft Azure Administration
+🐧 Linux System Administration
+🌐 Networking & Security
+⚙️ DevOps & Automation
+📊 Infrastructure Monitoring
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Currently Exploring
+
+🚀 Kubernetes
+🏗️ Terraform
+🔄 CI/CD Pipelines
+📈 Data Engineering
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </div>
 
 ---
-
 # ⚡ TECH STACK
 
 <div align="center">
