@@ -236,5 +236,3 @@ Cloud Operations
 
 </div>
 
-
-ok ???
