@@ -152,7 +152,8 @@ Scalable Systems
 
 
 
-# ☁️ CLOUD • ⚙️ DEVOPS • 📊 DATA ENGINEERING
+# ☁️ CLOUD • ⚙️ DEVOPS 
+• 📊 DATA ENGINEERING
 
 
 
