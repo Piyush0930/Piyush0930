@@ -171,7 +171,7 @@ Scalable Systems
 
 
 
-### ☁️ AWS CLOUD
+### ☁️AWS CLOUD
 
 
 
@@ -205,7 +205,7 @@ Load Balancing
 
 
 
-### 🔷 AZURE CLOUD
+### 🔷AZURE CLOUD
 
 
 
@@ -239,7 +239,7 @@ Cloud Deployment
 
 
 
-### ⚙️ DEVOPS
+### ⚙️DEVOPS
 
 
 
@@ -297,7 +297,7 @@ Grafana
 
 
 
-### 📊 DATA ENGINEERING
+### 📊DATA ENGINEERING
 
 
 
