@@ -34,7 +34,7 @@
 
 
 
-# 🧑‍💻 ABOUT ME
+# 🧑‍💻 ABOUT-ME
 
 
 
@@ -403,7 +403,7 @@ Cloud Operations
 
 
 
-# 🌐 CONNECT WITH ME
+# 🌐 CONNECT WITH ME 
 
 
 
@@ -443,7 +443,7 @@ Cloud Operations
 
 
 
-# 🏆 ACHIEVEMENTS
+# 🏆 ACHIEVEMENTS 
 
 
 
@@ -463,7 +463,7 @@ Cloud Operations
 
 
 
-<div align="center">
+<div align="center"> 
 
 
 
