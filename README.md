@@ -96,7 +96,7 @@ Data Engineering
 
 
 
-### ⚡ FOCUS
+### ⚡FOCUS
 
 
 
@@ -116,7 +116,7 @@ Scalable Systems
 
 ---
 
-# ⚡ TECH STACK
+# ⚡TECH STACK
 
 
 
@@ -136,7 +136,7 @@ Scalable Systems
 
 
 
-### 💻 Development
+### 💻Development
 
 
 
@@ -152,7 +152,8 @@ Scalable Systems
 
 
 
-# ☁️ CLOUD • ⚙️ DEVOPS 
+# ☁️ CLOUD 
+• ⚙️ DEVOPS 
 • 📊 DATA ENGINEERING
 
 
