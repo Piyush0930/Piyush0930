@@ -1,42 +1,479 @@
-<!-- =============== MINECRAFT WORLD HEADER =============== -->
+\<div align="center"> \<img src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0f0f,100:1f4068&text=Piyush%20Patil&fontColor=00F5FF&fontSize=65&fontAlignY=38&desc=Cloud%20Engineer%20•%20AWS%20•%20Azure%20•%20DevOps&descAlignY=58&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&height=300\&color=0:0f0f0f,100:1f4068\&text=Piyush%20Patil\&fontColor=00F5FF\&fontSize=65\&fontAlignY=38\&desc=Cloud%20Engineer%20•%20AWS%20•%20Azure%20•%20DevOps\&descAlignY=58\&animation=fadeIn)"/> \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=AWS+Cloud+Intern+%40+TeleGlobal+International;Cloud+Infrastructure+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Linux+%7C+Networking;CI%2FCD+Automation+%7C+Infrastructure+Monitoring;Building+Scalable+Cloud+Solutions](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&duration=3500\&pause=1000\&color=00F5FF\&center=true\&vCenter=true\&width=1000\&lines=AWS+Cloud+Intern+%40+TeleGlobal+International;Cloud+Infrastructure+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Linux+%7C+Networking;CI%2FCD+Automation+%7C+Infrastructure+Monitoring;Building+Scalable+Cloud+Solutions)" /> \<br> \<img src="[https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)"/> \<img src="[https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=azuredevops&logoColor=0078D7](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge\&logo=azuredevops\&logoColor=0078D7)"/> \<img src="[https://img.shields.io/badge/Data%20Engineering-1E293B?style=for-the-badge&logo=apachespark&logoColor=E25A1C](https://img.shields.io/badge/Data%20Engineering-1E293B?style=for-the-badge\&logo=apachespark\&logoColor=E25A1C)"/> \</div>
 
-<div align="center">
 
-<a href="https://www.minecraft.net/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:071A0D,45:1B4724,75:397A37,100:102515&text=PIYUSH%20PATIL&fontColor=7CFCB2&fontSize=62&fontAlignY=38&desc=AWS%20CLOUD%20ENGINEER%20%7C%20LINUX%20%7C%20DEVOPS&descAlignY=61&descSize=17&animation=fadeIn" />
-</a>
 
-<img width="100%" src="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Vanilla_bundle_2.png" alt="Minecraft Overworld, characters, blocks and animals" />
+\---
 
-<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=55FF77&center=true&vCenter=true&width=800&lines=Welcome+to+my+Overworld;AWS+Cloud+%7C+Linux+%7C+Networking;Infrastructure+%7C+Monitoring+%7C+Automation;Building+Cloud+Skills+One+Block+at+a+Time" />
 
-<br/>
+\<div align="center">
 
-<img src="https://img.shields.io/badge/GRASS_BLOCK-4C8C34?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DIAMOND-36D6E7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REDSTONE-BB352A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OBSIDIAN-29213D?style=for-the-badge" />
 
-</div>
 
----
+\<div align="center">
 
-<!-- =============== PLAYER PROFILE =============== -->
 
-<h2 align="center">⛏️ PLAYER PROFILE</h2>
 
-<div align="center">
+\<a href="./a_f_b_c_d_e_f_g_h_i_j_k_l_m_n_o_videomp\_.mp4">
 
-```text
-╔══════════════════════════════════════╗
-║          PLAYER: PIYUSH PATIL        ║
-╠══════════════════════════════════════╣
-║  CLASS       : CLOUD ENGINEER        ║
-║  WORKPLACE   : TELEGLOBAL INTL.      ║
-║  LOCATION    : PUNE, INDIA           ║
-║  WORLD       : AWS CLOUD             ║
-║  SPECIALITY  : INFRASTRUCTURE        ║
-║  QUEST       : CLOUD + DEVOPS        ║
-╚══════════════════════════════════════╝
+
+
+\<img src="[https://user-images.githubusercontent.com/74038190/240885022-4d2c4b0f-4d90-4e5e-a4f0-57df96f5d1d.gif](https://user-images.githubusercontent.com/74038190/240885022-4d2c4b0f-4d90-4e5e-a4f0-57df96f5d1d.gif)" width="100%"/>
+
+
+
+\</a>
+
+
+
+\</div>
+
+
+
+\</div>
+
+
+
+\# 🧑‍💻 ABOUT-ME
+
+
+
+\### 👨‍💻 PROFILE
+
+
+
+\`\`\`yaml
+
+Name     : Piyush Patil
+
+Role     : Cloud Engineer
+
+Company  : TeleGlobal International
+
+Location : Pune, India
+
+\`\`\`
+
+
+
+\### ☁️ SKILLS
+
+
+
+\`\`\`yaml
+
+AWS
+
+Azure
+
+Linux
+
+Networking
+
+DevOps
+
+Monitoring
+
+\`\`\`
+
+
+
+\### 🚀 LEARNING
+
+
+
+\`\`\`yaml
+
+Kubernetes
+
+Terraform
+
+CI/CD
+
+Data Engineering
+
+\`\`\`
+
+
+
+\### ⚡FOCUS
+
+
+
+\`\`\`yaml
+
+Cloud Infrastructure
+
+Automation
+
+Monitoring
+
+Scalable Systems
+
+\`\`\`
+
+
+
+\---
+
+\# ⚡TECH STACK
+
+
+
+\<div align="center">
+
+
+
+\### ☁️ Cloud & DevOps
+
+
+
+\<img src="[https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,linux,bash,git,github,prometheus,grafana](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,linux,bash,git,github,prometheus,grafana)" />
+
+
+
+\---
+
+
+
+\### 💻Development
+
+
+
+\<img src="[https://skillicons.dev/icons?i=python,javascript,nodejs,react,nextjs,mongodb,mysql](https://skillicons.dev/icons?i=python,javascript,nodejs,react,nextjs,mongodb,mysql)" />
+
+
+
+\</div>
+
+
+
+\---
+
+
+
+\# ☁️ CLOUD&#x20;
+• ⚙️ DEVOPS&#x20;
+• 📊 DATA ENGINEERING
+
+
+
+\<div align="center">
+
+
+
+\<table>
+
+\<tr>
+
+
+
+\<td width="33%" valign="top">
+
+
+
+\### ☁️AWS CLOUD
+
+
+
+\`\`\`yaml
+
+EC2 Management
+
+IAM & Policies
+
+VPC Networking
+
+Security Groups
+
+CloudWatch
+
+S3 Storage
+
+Route 53
+
+Load Balancing
+
+\`\`\`
+
+
+
+\</td>
+
+
+
+\<td width="33%" valign="top">
+
+
+
+\### 🔷AZURE CLOUD
+
+
+
+\`\`\`yaml
+
+Azure VMs
+
+Azure Networking
+
+Resource Management
+
+Virtual Networks
+
+Monitoring
+
+Storage Services
+
+Diagnostics
+
+Cloud Deployment
+
+\`\`\`
+
+
+
+\</td>
+
+
+
+\<td width="33%" valign="top">
+
+
+
+\### ⚙️DEVOPS
+
+
+
+\`\`\`yaml
+
+Docker
+
+Kubernetes
+
+Terraform
+
+Jenkins CI/CD
+
+Git & GitHub
+
+Linux
+
+Prometheus
+
+Grafana
+
+\`\`\`
+
+
+
+\</td>
+
+
+
+\</tr>
+
+\</table>
+
+
+
+\</div>
+
+
+
+\---
+
+
+
+\<div align="center">
+
+
+
+\<table>
+
+\<tr>
+
+
+
+\<td width="50%" valign="top">
+
+
+
+\### 📊DATA ENGINEERING
+
+
+
+\`\`\`yaml
+
+Python
+
+Pandas & NumPy
+
+SQL
+
+MongoDB & MySQL
+
+ETL Basics
+
+Data Cleaning
+
+Visualization
+
+Analytics
+
+\`\`\`
+
+
+
+\</td>
+
+
+
+\<td width="50%" valign="top">
+
+
+
+\### 🚀 FOCUS AREA
+
+
+
+\`\`\`yaml
+
+Cloud Infrastructure
+
+Automation
+
+Monitoring
+
+Scalable Systems
+
+CI/CD Pipelines
+
+Cloud Operations
+
+\`\`\`
+
+
+
+\</td>
+
+
+
+\</tr>
+
+\</table>
+
+
+
+\</div>
+
+
+
+\---
+
+
+
+\# 📈 GITHUB ANALYTICS
+
+
+
+\<div align="center">
+
+
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Piyush0930&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api?username=Piyush0930\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0D1117)"/>
+
+
+
+
+
+
+
+\<img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/?user=Piyush0930&theme=tokyonight&hide_border=true&background=0D1117](https://github-readme-streak-stats.herokuapp.com/?user=Piyush0930\&theme=tokyonight\&hide_border=true\&background=0D1117)"/>
+
+
+
+\<br>\<br>
+
+
+
+\<img width="40%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0930&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0930\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0D1117)"/>
+
+
+
+\</div>
+
+
+
+\---
+
+
+
+\# 🌐 CONNECT WITH ME&#x20;
+
+
+
+\<div align="center">
+
+
+
+\<a href="[https://www.linkedin.com/in/piyush-patil-867a30250/](https://www.linkedin.com/in/piyush-patil-867a30250/)">
+
+\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
+
+\</a>
+
+
+
+\<a href="mailto:piyushpatil922004@gmail.com">
+
+\<img src="[https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)"/>
+
+\</a>
+
+
+
+\<a href="[https://instagram.com/piyuushhh_09](https://instagram.com/piyuushhh_09)">
+
+\<img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)"/>
+
+\</a>
+
+
+
+\</div>
+
+
+
+\---
+
+
+
+\# 🏆 ACHIEVEMENTS&#x20;
+
+
+
+\<div align="center">
+
+
+
+\<img src="[https://github-profile-trophy.vercel.app/?username=Piyush0930&theme=tokyonight&no-frame=true&row=1&column=6](https://github-profile-trophy.vercel.app/?username=Piyush0930\&theme=tokyonight\&no-frame=true\&row=1\&column=6)"/>
+
+
+
+\</div>
+
+
+
+\---
+
+
+
+\<div align="center">&#x20;
+
+
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,100:1f4068](https://capsule-render.vercel.app/api?type=waving\&height=120\&section=footer\&color=0:0f0f0f,100:1f4068)"/>
+
+
+
+\</div>
