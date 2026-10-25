@@ -1,453 +1,154 @@
+<!-- ================= HEADER ================= -->
 
+<div align="center">
 
-\</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:111827,100:1D4ED8&text=Piyush%20Patil&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Cloud%20Engineering%20%7C%20AWS%20%7C%20Linux%20%7C%20DevOps&descSize=16&descAlignY=65" />
 
+<br/>
 
+<a href="https://www.linkedin.com/in/piyush-patil-867a30250/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:piyushpatil922004@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Piyush0930">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-\</div>
+</div>
 
+---
 
+## About Me
 
-\# 🧑‍💻 ABOUT-ME
+I'm a cloud engineering professional currently working as an **AWS Cloud Intern at TeleGlobal International**, with a focus on cloud infrastructure, Linux administration, networking, monitoring, and troubleshooting.
 
+I enjoy working on practical cloud scenarios, understanding infrastructure issues, and developing automation skills.
 
+- **Current focus:** AWS Cloud Engineering
+- **Core areas:** EC2, VPC, IAM, S3, CloudWatch, Linux
+- **Exploring:** Terraform, Docker, Kubernetes, CI/CD
+- **Location:** Pune, India
 
-\### 👨‍💻 PROFILE
+---
 
+## Technical Skills
 
+### Cloud Platforms
 
-\`\`\`yaml
+<div>
+<img src="https://skillicons.dev/icons?i=aws,azure&theme=light" />
+</div>
 
-Name     : Piyush Patil
+### Systems & Networking
 
-Role     : Cloud Engineer
+<div>
+<img src="https://skillicons.dev/icons?i=linux,bash,nginx&theme=light" />
+</div>
 
-Company  : TeleGlobal International
+### DevOps & Automation
 
-Location : Pune, India
+<div>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,terraform,jenkins&theme=light" />
+</div>
 
-\`\`\`
+### Monitoring & Scripting
 
+<div>
+<img src="https://skillicons.dev/icons?i=python,prometheus,grafana&theme=light" />
+</div>
 
+---
 
-\### ☁️ SKILLS
+## Areas of Focus
 
+| Area | Technologies & Topics |
+|---|---|
+| AWS Infrastructure | EC2, VPC, IAM, S3, EBS |
+| Networking | Subnets, Route Tables, NAT, Security Groups, Route 53 |
+| Monitoring | CloudWatch metrics, alarms, logs, troubleshooting |
+| Linux Administration | Processes, services, disk and CPU analysis, Nginx |
+| High Availability | Load Balancers, Target Groups, Multi-AZ architecture |
+| Automation | Lambda, shell scripting, Terraform |
+| DevOps | Docker, Kubernetes, Jenkins, CI/CD |
 
+---
 
-\`\`\`yaml
+## Hands-on Labs
 
-AWS
+Practical work and learning areas focused on real-world cloud operations.
 
-Azure
+| Project / Lab | Technologies |
+|---|---|
+| Linux Web Server Deployment | EC2, Linux, Nginx |
+| Private Subnet Connectivity | VPC, Route Tables, NAT Gateway |
+| Application Load Balancing | ALB, Target Groups, EC2 |
+| Static Website Hosting | S3, CloudFront |
+| EC2 Start/Stop Automation | Lambda, EventBridge |
+| Infrastructure Backup Planning | EBS Snapshots, AMIs |
+| Cloud Monitoring | CloudWatch, Alarms |
+| AWS Log Analytics | S3, Athena, SQL |
 
-Linux
+Explore my repositories for available implementations and documentation.
 
-Networking
+<div align="center">
 
-DevOps
+<a href="https://github.com/Piyush0930?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-Monitoring
+</div>
 
-\`\`\`
+---
 
+## Currently Learning
 
+<div align="center">
 
-\### 🚀 LEARNING
+<img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-Container%20Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-Automation-374151?style=flat-square&logo=jenkins&logoColor=white" />
 
+</div>
 
+---
 
-\`\`\`yaml
+## GitHub Statistics
 
-Kubernetes
+<div align="center">
 
-Terraform
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Piyush0930&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-CI/CD
+<img height="165" src="https://streak-stats.demolab.com?user=Piyush0930&theme=tokyonight&hide_border=true" />
 
-Data Engineering
+<br/><br/>
 
-\`\`\`
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0930&layout=compact&theme=tokyonight&hide_border=true" />
 
+</div>
 
+---
 
-\### ⚡FOCUS
+## Connect With Me
 
+<div align="center">
 
+<a href="https://www.linkedin.com/in/piyush-patil-867a30250/">
+LinkedIn
+</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/Piyush0930">
+GitHub
+</a>
+&nbsp; • &nbsp;
+<a href="mailto:piyushpatil922004@gmail.com">
+Email
+</a>
 
-\`\`\`yaml
+<br/><br/>
 
-Cloud Infrastructure
+<sub>Cloud Infrastructure · Automation · Continuous Learning</sub>
 
-Automation
-
-Monitoring
-
-Scalable Systems
-
-\`\`\`
-
-
-
-\---
-
-\# ⚡TECH STACK
-
-
-
-\<div align="center">
-
-
-
-\### ☁️ Cloud & DevOps
-
-
-
-\<img src="[https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,linux,bash,git,github,prometheus,grafana](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,linux,bash,git,github,prometheus,grafana)" />
-
-
-
-\---
-
-
-
-\### 💻Development
-
-
-
-\<img src="[https://skillicons.dev/icons?i=python,javascript,nodejs,react,nextjs,mongodb,mysql](https://skillicons.dev/icons?i=python,javascript,nodejs,react,nextjs,mongodb,mysql)" />
-
-
-
-\</div>
-
-
-
-\---
-
-
-
-\# ☁️ CLOUD&#x20;
-• ⚙️ DEVOPS&#x20;
-• 📊 DATA ENGINEERING
-
-
-
-\<div align="center">
-
-
-
-\<table>
-
-\<tr>
-
-
-
-\<td width="33%" valign="top">
-
-
-
-\### ☁️AWS CLOUD
-
-
-
-\`\`\`yaml
-
-EC2 Management
-
-IAM & Policies
-
-VPC Networking
-
-Security Groups
-
-CloudWatch
-
-S3 Storage
-
-Route 53
-
-Load Balancing
-
-\`\`\`
-
-
-
-\</td>
-
-
-
-\<td width="33%" valign="top">
-
-
-
-\### 🔷AZURE CLOUD
-
-
-
-\`\`\`yaml
-
-Azure VMs
-
-Azure Networking
-
-Resource Management
-
-Virtual Networks
-
-Monitoring
-
-Storage Services
-
-Diagnostics
-
-Cloud Deployment
-
-\`\`\`
-
-
-
-\</td>
-
-
-
-\<td width="33%" valign="top">
-
-
-
-\### ⚙️DEVOPS
-
-
-
-\`\`\`yaml
-
-Docker
-
-Kubernetes
-
-Terraform
-
-Jenkins CI/CD
-
-Git & GitHub
-
-Linux
-
-Prometheus
-
-Grafana
-
-\`\`\`
-
-
-
-\</td>
-
-
-
-\</tr>
-
-\</table>
-
-
-
-\</div>
-
-
-
-\---
-
-
-
-\<div align="center">
-
-
-
-\<table>
-
-\<tr>
-
-
-
-\<td width="50%" valign="top">
-
-
-
-\### 📊DATA ENGINEERING
-
-
-
-\`\`\`yaml
-
-Python
-
-Pandas & NumPy
-
-SQL
-
-MongoDB & MySQL
-
-ETL Basics
-
-Data Cleaning
-
-Visualization
-
-Analytics
-
-\`\`\`
-
-
-
-\</td>
-
-
-
-\<td width="50%" valign="top">
-
-
-
-\### 🚀 FOCUS AREA
-
-
-
-\`\`\`yaml
-
-Cloud Infrastructure
-
-Automation
-
-Monitoring
-
-Scalable Systems
-
-CI/CD Pipelines
-
-Cloud Operations
-
-\`\`\`
-
-
-
-\</td>
-
-
-
-\</tr>
-
-\</table>
-
-
-
-\</div>
-
-
-
-\---
-
-
-
-\# 📈 GITHUB ANALYTICS
-
-
-
-\<div align="center">
-
-
-
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Piyush0930&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api?username=Piyush0930\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0D1117)"/>
-
-
-
-
-
-
-
-\<img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/?user=Piyush0930&theme=tokyonight&hide_border=true&background=0D1117](https://github-readme-streak-stats.herokuapp.com/?user=Piyush0930\&theme=tokyonight\&hide_border=true\&background=0D1117)"/>
-
-
-
-\<br>\<br>
-
-
-
-\<img width="40%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0930&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0930\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0D1117)"/>
-
-
-
-\</div>
-
-
-
-\---
-
-
-
-\# 🌐 CONNECT WITH ME&#x20;
-
-
-
-\<div align="center">
-
-
-
-\<a href="[https://www.linkedin.com/in/piyush-patil-867a30250/](https://www.linkedin.com/in/piyush-patil-867a30250/)">
-
-\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
-
-\</a>
-
-
-
-\<a href="mailto:piyushpatil922004@gmail.com">
-
-\<img src="[https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)"/>
-
-\</a>
-
-
-
-\<a href="[https://instagram.com/piyuushhh_09](https://instagram.com/piyuushhh_09)">
-
-\<img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)"/>
-
-\</a>
-
-
-
-\</div>
-
-
-
-\---
-
-
-
-\# 🏆 ACHIEVEMENTS&#x20;
-
-
-
-\<div align="center">
-
-
-
-\<img src="[https://github-profile-trophy.vercel.app/?username=Piyush0930&theme=tokyonight&no-frame=true&row=1&column=6](https://github-profile-trophy.vercel.app/?username=Piyush0930\&theme=tokyonight\&no-frame=true\&row=1\&column=6)"/>
-
-
-
-\</div>
-
-
-
-\---
-
-
-
-\<div align="center">&#x20;
-
-
-
-\<img src="[https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,100:1f4068](https://capsule-render.vercel.app/api?type=waving\&height=120\&section=footer\&color=0:0f0f0f,100:1f4068)"/>
-
-
-
-\</div>
+</div>
