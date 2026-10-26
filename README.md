@@ -22,7 +22,7 @@
 
 ## About Me
 
-I'm a cloud engineering professional currently working as an **AWS Cloud Intern at TeleGlobal International**, with a focus on cloud infrastructure, Linux administration, networking, monitoring, and troubleshooting.
+I'm a cloud engineering professional currently working as an **AWS Cloud Engineer at TeleGlobal International**, with a focus on cloud infrastructure, Linux administration, networking, monitoring, and troubleshooting.
 
 I enjoy working on practical cloud scenarios, understanding infrastructure issues, and developing automation skills.
 
