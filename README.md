@@ -81,7 +81,7 @@ Practical work and learning areas focused on real-world cloud operations.
 
 | Project / Lab | Technologies |
 |---|---|
-| Linux Web Server Deployment | EC2, Linux, Nginx |
+| Linux Web Server Deployment | EC2, Linux, Nginx, Apache |
 | Private Subnet Connectivity | VPC, Route Tables, NAT Gateway |
 | Application Load Balancing | ALB, Target Groups, EC2 |
 | Static Website Hosting | S3, CloudFront |
